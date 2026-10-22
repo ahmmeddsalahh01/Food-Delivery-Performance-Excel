@@ -32,6 +32,3 @@ Delivered sales totaled about EGP 2.13M, with an average order value of about EG
 2. Investigate why Cairo trails every other city.
 3. Work with restaurants that have the highest cancellation rates.
 
-## Preview
-![Revenue and growth](images/revenue-growth.png)
-![Delivery performance](images/delivery-performance.png)
